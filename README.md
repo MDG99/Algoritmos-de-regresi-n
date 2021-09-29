@@ -27,7 +27,7 @@ Este repositorio corresponde al proyecto 1 de la materia *"Aprendizaje automáti
 - [ ] Solución del problema de estimación del costo de un seguro. [Nacho]
 - [X] ~~Análisis y solución del problema de estimación de la puntuación de la calidad de un vino usando la librería Sklearn. [Nacho]~~
 - [ ] Hacer el punto anterior interactivo con Widgets (Opcional) [Nacho]
-- [X] Investigación sobre el algoritmo Polynomial Regression. [Calixto]
-- [X] Implementación del algortimo Polynomial Regression (Nube de datos y problema de la puntuación de la calidad de un vino). [Calixto]
+- [X] ~~Investigación sobre el algoritmo Polynomial Regression. [Calixto]~~
+- [X] ~~Implementación del algortimo Polynomial Regression (Nube de datos y problema de la puntuación de la calidad de un vino). [Calixto]~~
 - [ ] Trabajo escrito. [Todos]
 - [ ] Video-entrega [Todos]
