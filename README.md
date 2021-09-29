@@ -20,7 +20,7 @@ Este repositorio corresponde al proyecto 1 de la materia *"Aprendizaje automáti
 
 ## Tareas
 - [X] ~~Preprocesamiento de la información (Lectura y posible tratamiento para su uso posterior). [Nacho]~~
-- [ ] ~~Trabajo escrito e implementación en código de la Ecuación Normal~~ y el Batch Gradient Descent. [Nacho y Shubert]
+- [ ] Trabajo escrito e ~~implementación en código de la Ecuación Normal~~ y el Batch Gradient Descent. [Nacho y Shubert]
 - [ ] Investigar sobre el Stochastic Gradient Descent: trabajo escrito e implementación en código. [Shubert]
 - [ ] Investigar sobre el Mini-batch Gradient Descent: trabajo escrito e implementación en código. [Miranda]
 - [ ] Análisis comparativo entre SGD y MGD. [Miranda]
