@@ -25,7 +25,7 @@ Este repositorio corresponde al proyecto 1 de la materia *"Aprendizaje automáti
 - [ ] Investigar sobre el Mini-batch Gradient Descent: trabajo escrito e implementación en código. [Miranda]
 - [ ] Análisis comparativo entre SGD y MGD. [Miranda]
 - [ ] Solución del problema de estimación del costo de un seguro. [Nacho]
-- [ ] Análisis y solución del problema de estimación de la puntuación de la calidad de un vino usando la librería Sklearn. [Nacho]
+- [X] Análisis y solución del problema de estimación de la puntuación de la calidad de un vino usando la librería Sklearn. [Nacho]
 - [ ] Hacer el punto anterior interactivo con Widgets (Opecional) [Nacho]
 - [ ] Investigación sobre el algoritmo Polynomial Regression. [Calixto]
 - [ ] Implementación del algortimo Polynomial Regression (Nube de datos y problema de la puntuación de la calidad de un vino). [Calixto]
