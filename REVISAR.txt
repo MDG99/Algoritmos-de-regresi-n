@@ -1,0 +1,14 @@
+PÁGINAS WEB:
+https://machinelearningmastery.com/how-to-know-if-your-machine-learning-model-has-good-performance/
+https://ruder.io/optimizing-gradient-descent/index.html#batchgradientdescent
+https://machinelearningmastery.com/gentle-introduction-mini-batch-gradient-descent-configure-batch-size/
+https://www.geeksforgeeks.org/ml-mini-batch-gradient-descent-with-python/
+https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html
+
+VIDEOS:
+Escalamiento, estandarización y normalización - Inteligencia Artificial
+https://www.youtube.com/watch?v=Zw175M0-W94
+
+
+LIBRO: O'Reilly - Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd edition, 2019) - wow
